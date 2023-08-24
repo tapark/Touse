@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="_50black">#80000000</color>
+    <color name="_80black">#CC000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#7A7A7A</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="white_trans10">#1AFFFFFF</color>
+    <color name="white_trans20">#33FFFFFF</color>
+    <color name="white_trans30">#4DFFFFFF</color>
+    <color name="white_trans40">#66FFFFFF</color>
+    <color name="white_trans50">#80FFFFFF</color>
+    <color name="white_trans60">#99FFFFFF</color>
+    <color name="white_trans70">#B3FFFFFF</color>
+    <color name="white_trans80">#CCFFFFFF</color>
+    <color name="white_trans90">#E6FFFFFF</color>
+
+    <color name="black_trans10">#1A000000</color>
+    <color name="black_trans20">#33000000</color>
+    <color name="black_trans30">#4D000000</color>
+    <color name="black_trans40">#66000000</color>
+    <color name="black_trans50">#80000000</color>
+    <color name="black_trans60">#99000000</color>
+    <color name="black_trans70">#B3000000</color>
+    <color name="black_trans80">#CC000000</color>
+    <color name="black_trans90">#E6000000</color>
+
+    <color name="color_dddddd">#DDDDDD</color>
+    <color name="color_eeeeee">#EEEEEE</color>
+
+    <color name="_15b373">#15B373</color>
+    <color name="_ef3231">#EF3231</color>
+    <color name="_e1e1e1">#E1E1E1</color>
+    <color name="_f7f7f7">#F7F7F7</color>
+    <color name="_333333">#333333</color>
+    <color name="_555555">#555555</color>
+    <color name="_999999">#999999</color>
+    <color name="_111111">#111111</color>
+    <color name="_e0000c">#E0000C</color>
+    <color name="_f9f9f9">#F9F9F9</color>
+    <color name="_666666">#666666</color>
+    <color name="_dc453d">#DC453D</color>
+    <color name="_faebea">#FAEBEA</color>
+    <color name="_7c7c7c">#7C7C7C</color>
+    <color name="_f4f7fa">#F4F7FA</color>
+    <color name="_45484b">#45484B</color>
+    <color name="_c1c6c9">#C1C6C9</color>
+    <color name="_d10023">#D10023</color>
+    <color name="_e82020">#E82020</color>
+    <color name="_0b83e6">#0B83E6</color>
+    <color name="_777777">#777777</color>
+    <color name="_fdfdfd">#FDFDFD</color>
+    <color name="_0666e4">#0666E4</color>
+    <color name="_fac2c2">#FAC2C2</color>
+    <color name="_3392979B">#3392979B</color>
+    <color name="_d5e8f8">#D5E8F8</color>
+    <color name="_ffe8e8">#FFE8E8</color>
+    <color name="_fff7f7">#FFF7F7</color>
+    <color name="_efefef">#EFEFEF</color>
+    <color name="_d71e1e">#D71E1E</color>
+    <color name="_f5f5f5">#F5F5F5</color>
+    <color name="_fa3c00">#FA3C00</color>
+    <color name="_ccdc453d">#CCDC453D</color>
+    <color name="_1f1f1f">#1F1F1F</color>
+    <color name="_ed5050">#ED5050</color>
+    <color name="_0c0d0e">#0C0D0E</color>
+    <color name="_9bceff">#9BCEFF</color>
+    <color name="_d2e9ff">#D2E9FF</color>
+    <color name="_0080ff">#0080FF</color>
+    <color name="_ed3939">#ED3939</color>
+
+
+    <color name="_33000000">#33000000</color>
+
+</resources>
+
+    <!--
+            100%    FF
+            90%     E6
+            80%     CC
+            50%     80
+            20%     33
+            10%     1A
+            0%      00
+        -->
