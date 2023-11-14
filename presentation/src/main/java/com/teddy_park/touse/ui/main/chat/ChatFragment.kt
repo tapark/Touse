@@ -1,4 +1,4 @@
-package com.teddy_park.touse.ui.main.home
+package com.teddy_park.touse.ui.main.chat
 
 import android.os.Bundle
 import androidx.core.widget.addTextChangedListener
@@ -11,10 +11,10 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 @AndroidEntryPoint
-class HomeFragment: BaseFragment<FragmentHomeBinding, HomeFragmentViewModel>() {
+class ChatFragment: BaseFragment<FragmentHomeBinding, ChatFragmentViewModel>() {
 
-    override val viewModel: HomeFragmentViewModel by viewModels()
-    override val layout: Int = R.layout.fragment_home
+    override val viewModel: ChatFragmentViewModel by viewModels()
+    override val layout: Int = R.layout.fragment_chat
 
     override fun onBackPressed() {
 
